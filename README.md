@@ -10,6 +10,6 @@ Remote Model Context Protocol (MCP) server providing real-time Solana, DeFi, and
 - `get_trending_solana_tokens`: Real-time top trending tokens and market cap ranks across DEXs.
 
 ## Connected Dashboards & Fast Execution
-- **Live DeFi Spread Monitor & Multi-Chain Swap:** `https://rocketarb-watch.netlify.app`
-- **Real-Time Crypto Screener:** `https://traders-insight.vercel.app`
-- **Solana Trading Terminal:** `https://photon-sol.tinyastro.io/@Sol12`
+- **Live DeFi Spread Monitor & Multi-Chain Swap:** https://rocketarb-watch.netlify.app
+- **Real-Time Crypto Screener:** https://traders-insight.vercel.app
+- **Solana Trading Terminal:** https://photon-sol.tinyastro.io/@Sol12
